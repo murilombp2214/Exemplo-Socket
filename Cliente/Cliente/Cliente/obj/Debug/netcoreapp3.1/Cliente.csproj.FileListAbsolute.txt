@@ -1,0 +1,14 @@
+E:\Faculdade\SD\Socket\Cliente\Cliente\Cliente\bin\Debug\netcoreapp3.1\Cliente.exe
+E:\Faculdade\SD\Socket\Cliente\Cliente\Cliente\bin\Debug\netcoreapp3.1\Cliente.deps.json
+E:\Faculdade\SD\Socket\Cliente\Cliente\Cliente\bin\Debug\netcoreapp3.1\Cliente.runtimeconfig.json
+E:\Faculdade\SD\Socket\Cliente\Cliente\Cliente\bin\Debug\netcoreapp3.1\Cliente.runtimeconfig.dev.json
+E:\Faculdade\SD\Socket\Cliente\Cliente\Cliente\bin\Debug\netcoreapp3.1\Cliente.dll
+E:\Faculdade\SD\Socket\Cliente\Cliente\Cliente\bin\Debug\netcoreapp3.1\Cliente.pdb
+E:\Faculdade\SD\Socket\Cliente\Cliente\Cliente\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Faculdade\SD\Socket\Cliente\Cliente\Cliente\obj\Debug\netcoreapp3.1\Cliente.csproj.CoreCompileInputs.cache
+E:\Faculdade\SD\Socket\Cliente\Cliente\Cliente\obj\Debug\netcoreapp3.1\Cliente.AssemblyInfoInputs.cache
+E:\Faculdade\SD\Socket\Cliente\Cliente\Cliente\obj\Debug\netcoreapp3.1\Cliente.AssemblyInfo.cs
+E:\Faculdade\SD\Socket\Cliente\Cliente\Cliente\obj\Debug\netcoreapp3.1\Cliente.csproj.CopyComplete
+E:\Faculdade\SD\Socket\Cliente\Cliente\Cliente\obj\Debug\netcoreapp3.1\Cliente.dll
+E:\Faculdade\SD\Socket\Cliente\Cliente\Cliente\obj\Debug\netcoreapp3.1\Cliente.pdb
+E:\Faculdade\SD\Socket\Cliente\Cliente\Cliente\obj\Debug\netcoreapp3.1\Cliente.genruntimeconfig.cache

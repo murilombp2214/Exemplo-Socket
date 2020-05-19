@@ -1,0 +1,15 @@
+E:\Faculdade\SD\Socket\Servidor\Servidor\bin\Debug\netcoreapp3.1\Servidor.exe
+E:\Faculdade\SD\Socket\Servidor\Servidor\bin\Debug\netcoreapp3.1\Servidor.deps.json
+E:\Faculdade\SD\Socket\Servidor\Servidor\bin\Debug\netcoreapp3.1\Servidor.runtimeconfig.json
+E:\Faculdade\SD\Socket\Servidor\Servidor\bin\Debug\netcoreapp3.1\Servidor.runtimeconfig.dev.json
+E:\Faculdade\SD\Socket\Servidor\Servidor\bin\Debug\netcoreapp3.1\Servidor.dll
+E:\Faculdade\SD\Socket\Servidor\Servidor\bin\Debug\netcoreapp3.1\Servidor.pdb
+E:\Faculdade\SD\Socket\Servidor\Servidor\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Faculdade\SD\Socket\Servidor\Servidor\obj\Debug\netcoreapp3.1\Servidor.csproj.CoreCompileInputs.cache
+E:\Faculdade\SD\Socket\Servidor\Servidor\obj\Debug\netcoreapp3.1\Servidor.AssemblyInfoInputs.cache
+E:\Faculdade\SD\Socket\Servidor\Servidor\obj\Debug\netcoreapp3.1\Servidor.AssemblyInfo.cs
+E:\Faculdade\SD\Socket\Servidor\Servidor\obj\Debug\netcoreapp3.1\Servidor.csproj.CopyComplete
+E:\Faculdade\SD\Socket\Servidor\Servidor\obj\Debug\netcoreapp3.1\Servidor.dll
+E:\Faculdade\SD\Socket\Servidor\Servidor\obj\Debug\netcoreapp3.1\Servidor.pdb
+E:\Faculdade\SD\Socket\Servidor\Servidor\obj\Debug\netcoreapp3.1\Servidor.genruntimeconfig.cache
+E:\Faculdade\SD\Socket\Servidor\Servidor\obj\Debug\netcoreapp3.1\Servidor.csprojAssemblyReference.cache

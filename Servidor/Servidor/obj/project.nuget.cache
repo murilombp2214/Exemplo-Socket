@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "STz+LjDmP22xupXKgo4kCYR9d8FP18sz7WIe1fPFfPsfkqwGWH3tWDx9+Af2EcUZ4iBU++f2cu4+MsPY/xjFEA==",
+  "success": true,
+  "projectFilePath": "E:\\Faculdade\\SD\\Socket\\Servidor\\Servidor\\Servidor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\murilo.peixoto\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
